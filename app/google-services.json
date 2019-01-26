@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "926697381563",
+    "firebase_url": "https://utopian-sky-228410.firebaseio.com",
+    "project_id": "utopian-sky-228410",
+    "storage_bucket": "utopian-sky-228410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926697381563:android:0e803eba4625a070",
+        "android_client_info": {
+          "package_name": "com.example.firebaserecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926697381563-82d1ikoepilef73ol3s1g6o6i9q787ij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaserecord",
+            "certificate_hash": "27fedac86e6829ec3021088b2b0d0cdd72b3487f"
+          }
+        },
+        {
+          "client_id": "926697381563-cp8bn5d2fn9068qr6qok16821df56o5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALvauWk3wFAwNG9PIvJdjn5dlyXy218tA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926697381563-cp8bn5d2fn9068qr6qok16821df56o5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
